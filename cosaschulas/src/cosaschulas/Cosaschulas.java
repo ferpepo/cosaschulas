@@ -15,8 +15,7 @@ public class Cosaschulas {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("cosaschulaaaas");
-        System.out.println("ymascosaschulaaaas");
+       System.out.println("todaviamascosaschulaaas");
     }
     
 }
