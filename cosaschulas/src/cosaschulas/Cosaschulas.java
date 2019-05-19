@@ -18,6 +18,9 @@ public class Cosaschulas {
        System.out.println("todaviamascosaschulaaas");
        System.out.println("ytodaviamascosaschulaaas");
        System.out.println("ytodaviamuchasmascosaschulaaas");
+       System.out.println("todaviamascosaschulaaas");
+       System.out.println("ytodaviamascosaschulaaas");
+       System.out.println("ytodaviamuchasmascosaschulaaas");
     }
     
 }
