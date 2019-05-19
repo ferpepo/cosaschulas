@@ -16,6 +16,7 @@ public class Cosaschulas {
      */
     public static void main(String[] args) {
        System.out.println("todaviamascosaschulaaas");
+       System.out.println("ytodaviamascosaschulaaas");
     }
     
 }
